@@ -46,7 +46,7 @@ export const district=[
           "id":"6",
             "title":"Malappuram",
             "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-            "image":"https://lh5.googleusercontent.com/-nicvKuOy7bk/TYneZJx3w0I/AAAAAAAAAO0/msULH8r4LRY/s1600/Kottakkunnu_3.jpg"
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/13/98/1b/nedumkayam-bridge-largejpg.jpg?w=500&h=-1&s=1"
       
           
         },
